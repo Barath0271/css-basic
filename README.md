@@ -619,7 +619,7 @@ CSS BASIC
 </head>
 <body>
     <header>
-        <h2>ELITE</h2>
+        <h2>SMARTO</h2>
         </header>
         <nav class="navbar">
         
