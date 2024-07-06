@@ -854,5 +854,5 @@ CSS BASIC
 ```
 ### Output:
 ![Screenshot 2024-07-06 211953](https://github.com/Barath0271/css-basic/assets/135820464/6590de18-2b90-4b0e-bc17-2dfb9677a77e)
-![Screenshot 2024-07-06 211244](https://github.com/Barath0271/css-basic/assets/135820464/9d8a4e23-3b7a-4257-8fab-9429707df8a8)
+![Screenshot 2024-07-06 212755](https://github.com/Barath0271/css-basic/assets/135820464/b14c4018-6424-4299-9f6a-8fdc0096ec1f)
 ![Screenshot 2024-07-06 211252](https://github.com/Barath0271/css-basic/assets/135820464/02a5c87b-d1c5-4601-8bb8-71c6dea048c7)
